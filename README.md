@@ -1,16 +1,8 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
-
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
 
 <h1>About</h1>
-<p>Talking about the functionalities of this system, like some other eCommerce Websites, the system allows users or customers to save their desired products to cart for later checkout. As I have mentioned above that this system has its own "CPanel", this side is for the Website's management or the Administrator Side. The administrator side manages all the data that the website provides to the customers in which includes managing the products, warehouses, and reports.</p>
+<p>eCommerce Websites, the system allows users or customers to save their desired products to cart for later checkout. this system has its own "CPanel", this side is for the Website's management or the Administrator Side. The administrator side manages all the data that the website provides to the customers which include managing the products, warehouses, and reports. also, the user can show all products he was buying with all details. and more features.</p>
 <h1>Features</h1>
-<h2>Admin Side<h2>
+<h3>Admin Side<h3>
     <ul> <li>Login Page</li>
         <li>Dashboard</li>
         <li>Home Page</li>
